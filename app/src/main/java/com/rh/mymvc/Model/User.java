@@ -38,9 +38,4 @@ public class User implements IUser{
         else
             return -1;
     }
-
-    @Override
-    public int isLogin() {
-        return 0;
-    }
 }
